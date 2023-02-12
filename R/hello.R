@@ -1,0 +1,76 @@
+#'Database of Avian Functional Traits and Distribution in South Korea
+#'
+#' A dataset containing the trait of birds
+#'
+#' @format A data frame with 567 rows and 49 variables:
+#' \describe{
+#'   \item{oderName}{Order name of species}
+#'   \item{famliyName}{Family name of species}
+#'   \item{IUCN SciName}{Scientic name using on IUCN}
+#'   \item{NLSK SciName}{Scientic name using on National List of Species of Korea}
+#'   \item{EltonTraits SciName}{Scientic name using on EltonTraits database}
+#'   \item{JAVIAN SciName}{Scientic name using on JAVIAN database}
+#'   \item{English Common Name}{English Common Name}
+#'   \item{Korean Common Name}{Korean Common Name}
+#'   \item{Diet-Inv}{Diet consists of Invertebrates-general, aquatic invertebrates, shrimp, krill, squid, crustacaeans, molluscs,
+#'   cephalapod, polychaetes, gastropods, orthoptera, terrestrial Invertebrates, ground insects, insect larvae, worms, orthopterans, flying insects (\%)}
+#'   \item{Diet-Vend}{Diet consists of Vertebrates-Mammals, Birds (\%)}
+#'   \item{Diet-Vect}{Diet consists of Herptile-Reptiles, snakes, amphibians, salamanders (\%)}
+#'   \item{Diet-Vfish}{Diet consists of Fish(\%)}
+#'   \item{Diet-Vunk}{Diet consists of Unknown-Vertebrates-general or unknown(\%)}
+#'   \item{Diet-Scav}{Diet consists of Scavenge-Scavenge, garbage, offal, carcasses, trawlers, carrrion(\%)}
+#'   \item{Diet-Fruit}{Diet consists of Fruit(\%)}
+#'   \item{Diet-Nect}{Diet consists of Nectar-Nectar, pollen, plant exudates, gums(\%)}
+#'   \item{Diet-Seed}{Diet consists of Seed-Seed, maize, nuts, spores, wheat, grains(\%)}
+#'   \item{Diet-PlantO}{Diet consists of Plant-Other plant material, Grass, ground vegetation, seedlings,
+#'   weeds, lichen, moss, small plants, reeds, cultivated crops, forbs, vegetables, fungi, roots, tubers,
+#'   legumes, bulbs, leaves, above ground vegetation, twigs, bark, shrubs, herbs, shoots, aquatic vegetation, aquatic plants(\%)}
+#'   \item{For-watbelowsurf}{Foraging location consists of below surface water(\%)}
+#'   \item{For-wataroundsurf}{Foraging location consists of around surface water(\%)}
+#'   \item{For-ground}{Foraging location consists of ground(\%)}
+#'   \item{For-understory}{Foraging location consists of understory tree(\%)}
+#'   \item{For-midhigh}{Foraging location consists of mid-high tree(\%)}
+#'   \item{For-canopy}{Foraging location consists of canopy(\%)}
+#'   \item{For-aerial}{Foraging location consists of aerial(\%)}
+#'   \item{For-PelagicSpecialist}{Foraging location consists of pelagic specialist(Binary)}
+#'   \item{For-Nocturnal}{Foraging location consists of ground(Binary)}
+#'   \item{Mp-BodyMass-Value}{Average Body Mass(g)}
+#'   \item{H-Urban}{Habitat type is denoted as urban area(Binary)}
+#'   \item{H-Agricultural}{Habitat type is denoted as agricultural area(Binary)}
+#'   \item{H-Coast}{Habitat type is denoted as coast and/or ocean(Binary)}
+#'   \item{H-LakeRiver}{Habitat type is denoted as lake, river and permanental waterbody(Binary)}
+#'   \item{H-Wetland}{Habitat type is denoted as Wetland(Binary)}
+#'   \item{H-GrassShrub}{Habitat type is denoted as grass and/or shrub(Binary)}
+#'   \item{H-Forest}{Habitat type is denoted as forest(Binary)}
+#'   \item{H-MountainAlpin}{Habitat type is denoted as mountain and/or alpin(Binary)}
+#'   \item{N-Ground}{Nesting locations are classified as ground(Binary)}
+#'   \item{N-GrassShrub}{Nesting locations are classified as grass and/or shrub(Binary)}
+#'   \item{N-Tree}{Nesting locations are classified as tree(Binary)}
+#'   \item{N-TreeHole}{Nesting locations are classified as tree hole(Binary)}
+#'   \item{N-CliffCave}{Nesting locations are classified as cliff and/or cave(Binary)}
+#'   \item{N-Waterlevel}{Nesting locations are classified as water level or near water(Binary)}
+#'   \item{N-Artificial}{Nesting locations are classified as artificial structure(Binary)}
+#'   \item{N-Pararsitize}{Nesting locations are classified as pararsitize(Binary)}
+#'   \item{N-Reuse}{Nesting locations are classified as reuse nest(Binary)}
+#'   \item{Ref}{A number associated with a reference number in a TraitRef file.}
+#' }
+"Trait"
+
+
+
+#' Reference about trait
+#'
+#' A dataset containing the measured height of four species of trees
+#'
+#' @format A data frame with 144 rows and 8 variables:
+#' \describe{
+#'   \item{Number}{Reference number}
+#'   \item{Title}{Reference titles}
+#'   \item{Author}{Author}
+#'   \item{Year}{Year}
+#'   \item{Publisher}{Publisher}
+#'   \item{Published City}{Published City}
+#'   \item{ISBN}{ISBN}
+#'   \item{DOI}{DOI}
+#' }
+"TraitRef"

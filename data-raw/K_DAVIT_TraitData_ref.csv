@@ -1,0 +1,145 @@
+﻿Number,Title,Author,Year,Publisher,Published City,ISBN,DOI
+1,EltonTraits 1.0: Species-level foraging attributes of the world’s birds and mammals.,"Wilman, H. et al",2014,Ecology ,,,
+2,"JAVIAN Database: a species-level database of life history, ecology and morphology of bird species in Japan","TAKAGAWA, S. et al. ",2011,Bird Research,,,doi:10.11211/birdresearch.7.R9
+3,"Black Grouse (Lyrurus tetrix), version 1.1","de Juana, Eduardo; Kirwan, Guy M.; Boesman, Peter F. D.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.blagro1.01.1
+4,"Bar-headed Goose (Anser indicus), version 1.0","Carboneras, Carles; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.bahgoo.01
+5,"Canada Goose (Branta canadensis), version 1.0","Mowbray, Thomas B.; Ely, Craig R.; Sedinger, James S.; Trost, Robert E.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.cangoo.01
+6,"American Black Duck (Anas rubripes), version 1.0","Longcore, Jerry R.; McAuley, Daniel G.; Hepp, Gary R.; Rhymer, Judith M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.ambduc.01
+7,"Indian Spot-billed Duck (Anas poecilorhyncha), version 1.0","Carboneras, Carles; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.isbduc1.01
+8,"Black Scoter (Melanitta americana), version 1.0","Bordage, Daniel; Savard, Jean-Pierre L.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.blksco2.01
+9,"Barrow's Goldeneye (Bucephala islandica), version 1.0","Eadie, John M.; Savard, Jean-Pierre L.; Mallory, Mark L.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.bargol.01
+10,"Red-throated Loon (Gavia stellata), version 2.0","Rizzolo, Daniel J.; Gray, Carrie E.; Schmutz, Joel A.; Barr, Jack F.; Eberl, Christine; McIntyre, Judith W.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.retloo.02
+11,"Arctic Loon (Gavia arctica), version 1.0","Russell, Robert W.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.arcloo.01
+12,"Pacific Loon (Gavia pacifica), version 1.0","Russell, Robert W.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.pacloo.01
+13,"Yellow-billed Loon (Gavia adamsii), version 1.0","Uher-Koch, Brian D.; North, Michael R.; Schmutz, Joel A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.yebloo.01
+14,"Short-tailed Albatross (Phoebastria albatrus), version 1.0","Carboneras, Carles; Jutglar, Francesc; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.shtalb.01
+15,"Streaked Shearwater (Calonectris leucomelas), version 1.0","Carboneras, Carles; Jutglar, Francesc; de Juana, Eduardo; Kirwan, Guy M.; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.strshe.01
+16,"Short-tailed Shearwater (Ardenna tenuirostris), version 1.0","Carboneras, Carles; Jutglar, Francesc; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.shtshe.01
+17,"Flesh-footed Shearwater (Ardenna carneipes), version 1.0","Carboneras, Carles; Jutglar, Francesc; Kirwan, Guy M.; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.flfshe.01
+18,"Bulwer's Petrel (Bulweria bulwerii), version 1.0","Megyesi, Jennifer L.; O'Daniel, Donna L.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.bulpet.01
+19,"Swinhoe's Storm-Petrel (Hydrobates monorhis), version 1.1","Carboneras, Carles; Jutglar, Francesc; de Juana, Eduardo; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.swspet.01.1
+20,"Great Frigatebird (Fregata minor), version 1.0","Gauger Metz, Vanessa H.; Schreiber, Elizabeth A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.grefri.01
+21,"Lesser Frigatebird (Fregata ariel), version 1.0","Orta, Jaume; Garcia, Ernest; Kirwan, Guy M.; Boesman, Peter F. D.; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lesfri.01
+22,"Great White Pelican (Pelecanus onocrotalus), version 1.0","Elliott, Andrew; Christie, David; Jutglar, Francesc; Garcia, Ernest; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.grwpel1.01
+23,"Dalmatian Pelican (Pelecanus crispus), version 1.0","Elliott, Andrew; Christie, David; Jutglar, Francesc; Kirwan, Guy M.; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.dalpel1.01
+24,"Masked Booby (Sula dactylatra), version 1.0","Grace, Jacquelyn; Anderson, David J.; Carboneras, Carles; Christie, David; Jutglar, Francesc; Garcia, Ernest; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.masboo.01
+25,"Red-footed Booby (Sula sula), version 1.0","Schreiber, Elizabeth A.; Schreiber, R. W.; Schenk, G. A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.refboo.01
+26,"Brown Booby (Sula leucogaster), version 1.0","Schreiber, Elizabeth A.; Norton, R. L.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.brnboo.01
+27,"Saker Falcon (Falco cherrug), version 1.0","Orta, Jaume; Boesman, Peter F. D.; Sharpe, Christopher J.; Marks, Jeffrey S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.sakfal1.01
+28,"Bearded Vulture (Gypaetus barbatus), version 1.0","Orta, Jaume; de Juana, Eduardo; Marks, Jeffrey S.; Sharpe, Christopher J.; Garcia, Ernest",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lammer1.01
+29,"Himalayan Griffon (Gyps himalayensis), version 1.0","Clark, William S.; Boesman, Peter F. D.; Kirwan, Guy M.; Marks, Jeffrey S.; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.himgri1.01
+30,"Bonelli's Eagle (Aquila fasciata), version 1.0","Orta, Jaume; Kirwan, Guy M.; Christie, David; Boesman, Peter F. D.; Marks, Jeffrey S.; Garcia, Ernest",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.boneag2.01
+31,"Booted Eagle (Hieraaetus pennatus), version 1.0","Orta, Jaume; Boesman, Peter F. D.; Marks, Jeffrey S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.booeag1.01
+32,"Band-bellied Crake (Zapornia paykullii), version 1.0","Taylor, Barry; Bonan, Arnau",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.babcra1.01
+33,"Yellow-legged Buttonquail (Turnix tanki), version 1.0","Debus, Stephen; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.yelbut1.01
+34,"Iceland Gull (Larus glaucoides), version 1.0","Snell, Richard R.; Pyle, Peter; Patten, Michael A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.y00478.01
+35,"Lesser Black-backed Gull (Larus fuscus), version 1.0","Burger, Joanna; Gochfeld, Michael; Kirwan, Guy M.; Christie, David; de Juana, Eduardo",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lbbgul.01
+36,"Pomarine Jaeger (Stercorarius pomarinus), version 1.0","Haven Wiley, R.; Lee, David S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.pomjae.01
+37,"South Polar Skua (Stercorarius maccormicki), version 1.0","Furness, Robert W.; Boesman, Peter F. D.; Garcia, Ernest",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.sopsku1.01
+38,"Parasitic Jaeger (Stercorarius parasiticus), version 1.0","Wiley, R. Haven; Lee, David S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.parjae.01
+39,"Long-tailed Jaeger (Stercorarius longicaudus), version 1.0","Wiley, R. Haven; Lee, David S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lotjae.01
+40,"Thick-billed Murre (Uria lomvia), version 1.0","Gaston, Anthony J.; Hipfner, J. Mark",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.thbmur.01
+41,"Common Murre (Uria aalge), version 2.0","Ainley, David G.; Nettleship, David N.; Storey, Anne E.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.commur.02
+42,"Spectacled Guillemot (Cepphus carbo), version 1.0","Nettleship, David N.; Boesman, Peter F. D.; Garcia, Ernest",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.spegui1.01
+43,"Long-billed Murrelet (Brachyramphus perdix), version 1.0","del Hoyo, Josep; Collar, Nigel; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lobmur.01
+44,"Ancient Murrelet (Synthliboramphus antiquus), version 1.0","Gaston, Anthony J.; Shoji, Akiko",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.ancmur.01
+45,"Japanese Murrelet (Synthliboramphus wumizusume), version 1.0","Nettleship, David N.; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.japmur1.01
+46,"Least Auklet (Aethia pusilla), version 1.0","Bond, Alexander L.; Jones, Ian L.; Seneviratne, Sampath; Muzaffar, Sabir Bin",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.leaauk.01
+47,"Rhinoceros Auklet (Cerorhinca monocerata), version 1.0","Gaston, Anthony J.; Dechesne, S. B.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rhiauk.01
+48,"Hill Pigeon (Columba rupestris), version 1.0","Baptista, Luis F.; Trail, Pepper W.; Horblit, H. M.; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.hilpig1.01
+49,"Large Hawk-Cuckoo (Hierococcyx sparverioides), version 1.0","Payne, Robert B.; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.larhac2.01
+50,"Northern Hawk-Cuckoo (Hierococcyx hyperythrus), version 1.0","del Hoyo, Josep; Collar, Nigel; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.nohcuc1.01
+51,"Himalayan Cuckoo (Cuculus saturatus), version 1.0","Payne, Robert B.; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.himcuc1.01
+52,"Lesser Coucal (Centropus bengalensis), version 1.0","Payne, Robert B.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lescou1.01
+53,"Indian Scops-Owl (Otus bakkamoena), version 1.0","Holt, Denver W.; Berkley, Regan; Deppe, Caroline; Enríquez, Paula L.; Petersen, Julie L.; Rangel Salazar, José Luis; Segars, Kelley P.; Wood, Kristin L.; Marks, Jeffrey S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.insowl1.01
+54,"Snowy Owl (Bubo scandiacus), version 1.0","Holt, Denver W.; Larson, Matt D.; Smith, Norman; Evans, Dave L.; Parmelee, David F.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.snoowl1.01
+55,"Northern Hawk Owl (Surnia ulula), version 1.0","Duncan, James R.; Duncan, Patricia A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.nohowl.01
+56,"Little Owl (Athene noctua), version 1.0","Holt, Denver W.; Berkley, Regan; Deppe, Caroline; Enríquez, Paula L.; Petersen, Julie L.; Rangel Salazar, José Luis; Segars, Kelley P.; Wood, Kristin L.; Kirwan, Guy M.; Christie, David; Marks, Jeffrey S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.litowl1.01
+57,"Himalayan Swiftlet (Aerodramus brevirostris), version 1.0","Chantler, Philip; Kirwan, Guy M.; Boesman, Peter F. D.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.himswi2.01
+58,"Red-bellied Woodpecker (Melanerpes carolinus), version 1.0","Miller, Karl E.; Leonard Jr., David L.; Shackelford, Clifford E.; Brown, Raymond E.; Conner, Richard N.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rebwoo.01
+59,"Blue-winged Pitta (Pitta moluccensis), version 1.0","Erritzoe, Johannes",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.blwpit1.01
+60,"Ashy Woodswallow (Artamus fuscus), version 1.0","Rowley, Ian; Russell, Eleanor",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.ashwoo2.01
+61,"Red-backed Shrike (Lanius collurio), version 1.0","Yosef, Reuven; International Shrike Working Group, Iswg; Christie, David",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rebshr1.01
+62,"Ashy Drongo (Dicrurus leucophaeus), version 1.0","Rocamora, Gérard; Yeatman-Berthelot, Dosithée",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.ashdro1.01
+63,"Indian Paradise-Flycatcher (Terpsiphone paradisi), version 1.0","Moeliker, Kees; Christie, David; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.aspfly1.01
+64,"Red-billed Chough (Pyrrhocorax pyrrhocorax), version 1.0","Madge, Steve",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rebcho1.01
+65,"Lesser Coucal (Centropus bengalensis), version 1.0","Payne, Robert B.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.lescou1.01
+66,"Tawny Owl (Strix aluco), version 1.1","Holt, Denver W.; Berkley, Regan; Deppe, Caroline; Enríquez, Paula L.; Petersen, Julie L.; Rangel Salazar, José Luis; Segars, Kelley P.; Wood, Kristin L.; Marks, Jeffrey S.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.tawowl1.01.1
+67,"Northern Hawk Owl (Surnia ulula), version 1.0","Duncan, James R.; Duncan, Patricia A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.nohowl.01
+68,"Hair-crested Drongo (Dicrurus hottentottus), version 1.0","Rocamora, Gérard; del Hoyo, Josep; Collar, Nigel; Yeatman-Berthelot, Dosithée; Christie, David; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.hacdro1.01
+69,"Eurasian Crag-Martin (Ptyonoprogne rupestris), version 1.0","Turner, Angela",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.eurcrm1.01
+70,"Common House-Martin (Delichon urbicum), version 1.0","del Hoyo, Josep; Turner, Angela; Kirwan, Guy M.; Collar, Nigel",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.cohmar1.01
+71,"Crested Lark (Galerida cristata), version 1.0","de Juana, Eduardo; Suárez, Francisco",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.crelar2.01
+72,"Beijing Babbler (Rhopophilus pekinensis), version 1.0","Collar, Nigel; Robson, Craig; Christie, David",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.beibab1.01
+73,"Spotted Bush Warbler (Locustella thoracica), version 1.0","Madge, Steve; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.spobuw3.01
+74,"Paddyfield Warbler (Acrocephalus agricola), version 1.0","Dyrcz, Andrzej",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.padwar1.01
+75,"Willow Warbler (Phylloscopus trochilus), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.wlwwar.01
+76,"Common Chiffchaff (Phylloscopus collybita), version 1.0","Clement, Peter; del Hoyo, Josep; Collar, Nigel; Kirwan, Guy M.; Christie, David",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.comchi1.01
+77,"Tickell's Leaf Warbler (Phylloscopus affinis), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.tilwar1.01
+78,"Hume's Warbler (Phylloscopus humei), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.humwar1.01
+79,"Two-barred Warbler (Phylloscopus plumbeitarsus), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.grewar2.01
+80,"Blyth's Leaf Warbler (Phylloscopus reguloides), version 1.0","Clement, Peter; Christie, David",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.blylew1.01
+81,"Lesser Whitethroat (Curruca curruca), version 1.1","Aymí, Raül; Gargallo, Gabriel",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.leswhi4.01.1
+82,"Snowy-browed Nuthatch (Sitta villosa), version 1.0","Harrap, Simon",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.snbnut1.01
+83,"Rosy Starling (Pastor roseus), version 1.0","Craig, Adrian J. F.; Feare, C. J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rossta2.01
+84,"Orange-headed Thrush (Geokichla citrina), version 1.0","Collar, Nigel; de Juana, Eduardo",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.orhthr1.01
+85,"White's Thrush (Zoothera aurea), version 1.0","del Hoyo, Josep; Collar, Nigel; Christie, David; Kirwan, Guy M.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.scathr2.01
+86,"Black-throated Thrush (Turdus atrogularis), version 1.0","Collar, Nigel",2020,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.datthr1.01
+87,"European Robin (Erithacus rubecula), version 1.0","Collar, Nigel",2020,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.eurrob1.01
+88,"Plumbeous Redstart (Phoenicurus fuliginosus), version 1.0","Collar, Nigel; Christie, David",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.plured1.01
+89,"White-capped Redstart (Phoenicurus leucocephalus), version 1.0","Collar, Nigel",2020,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.whcred1.01
+90,"Verditer Flycatcher (Eumyias thalassinus), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.verfly4.01
+91,"Fujian Niltava (Niltava davidi), version 1.0","Clement, Peter",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.fujnil1.01
+92,"Scaly-breasted Munia (Lonchura punctulata), version 1.0","Payne, Robert B.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.nutman.01
+93,"Meadow Pipit (Anthus pratensis), version 1.0","Tyler, Stephanie; Sharpe, Christopher J.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.meapip1.01
+94,"Rosy Pipit (Anthus roseatus), version 1.0","Tyler, Stephanie; de Juana, Eduardo",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rospip1.01
+95,"Rufous-backed Bunting (Emberiza jankowskii), version 1.0","Madge, Steve; de Juana, Eduardo",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rubbun1.01
+96,"Red-headed Bunting (Emberiza bruniceps), version 1.0","Copete, José Luis",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.rehbun1.01
+97,"Herring Gull (Larus argentatus), version 1.0","Weseloh, D. V.; Hebert, Craig E.; Mallory, Mark L.; Poole, Alan F.; Ellis, Julie C.; Pyle, Peter; Patten, Michael A.",,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.hergul.01
+98,Pardaliparus venustulus: BirdLife International: The IUCN Red List of Threatened Species 2016: e.T22711795A94308646,IUCN,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22711795A94308646.en
+99,Woodpeckers (Picidae),"Winkler, David W.; Billerman, Shawn M.; Lovette, Irby J.",,Cornell Lab of Ornithology,,,10.2173/bow.picida1.01
+100,Chinese Thrush (Otocichla mupinensis),"Collar, Nigel",2020,Cornell Lab of Ornithology,,,10.2173/bow.chithr2.01
+101,"Tawny Owl (Strix aluco), version 1.1","Holt, Denver W.; Berkley, Regan; Deppe, Caroline; Enríquez, Paula L.; Petersen, Julie L.; Rangel Salazar, José Luis; Segars, Kelley P.; Wood, Kristin L.; Marks, Jeffrey S.",,Cornell Lab of Ornithology,,,10.2173/bow.tawowl1.01.1
+102,"Handbook of the birds of India and Pakistan: together with those of Bangladesh, Nepal, Bhutan and Sri Lanka","Ali, Salim; Ripley, S. Dillon",,Oxford University Press,New Delhi; Oxford,9.7802E+12,
+103,Spilopelia chinensis: BirdLife International: The IUCN Red List of Threatened Species 2016: e.T60482887A95160992,IUCN,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T60482887A95160992.en
+104,Picoides canicapillus: BirdLife International: The IUCN Red List of Threatened Species 2016: e.T22681068A92891484,IUCN,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22681068A92891484.en
+105,Larus smithsonianus: BirdLife International: The IUCN Red List of Threatened Species 2019: e.T62030590A155596462,IUCN,2018,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2018-2.RLTS.T62030590A155596462.en
+106,Catharacta maccormicki: BirdLife International: The IUCN Red List of Threatened Species 2018: e.T22694218A132533643,IUCN,2018,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2018-2.RLTS.T22694218A132533643.en
+107,"Besra (Accipiter virgatus), version 1.0. ","Clark, W. S. and J. S. Marks",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.besra1.01
+108,"Common Myna (Acridotheres tristis), version 1.0.","Kannan, R. and D. A. James ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.commyn.01
+109,Acrocephalus dumetorum. The IUCN Red List of Threatened Species 2017: e.T22714736A111098258. ,BirdLife International,2017,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2017-1.RLTS.T22714736A111098258.en
+110,"Blyth's Reed Warbler (Acrocephalus dumetorum), version 1.0","Dyrcz, A. ",2020,Cornell Lab of Ornithology,"Ithaca, NY, USA",,10.2173/bow.blrwar1.01
+111,Acrocephalus schoenobaenus. The IUCN Red List of Threatened Species 2016: e.T22714700A87569807. ,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22714700A87569807.en.
+112,Aviceda leuphotes. The IUCN Red List of Threatened Species 2021: e.T22694964A202412049.,BirdLife International,2021,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2021-3.RLTS.T22694964A202412049.en. 
+113,"Black Baza (Aviceda leuphotes), version 1.0.","Clark, W. S. and G. M. Kirwan ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.blabaz1.01
+114,"Lesser Scaup (Aythya affinis), version 1.0.","Anteau, M. J., J. DeVink, D. N. Koons, J. E. Austin, C. M. Custer, and A. D. Afton ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.lessca.01
+115,"Ring-necked Duck (Aythya collaris), version 1.0.","Roy, C. L., C. M. Herwig, W. L. Hohman, and R. T. Eberhardt ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.rinduc.01
+116,Branta ruficollis (amended version of 2017 assessment). The IUCN Red List of Threatened Species 2017: e.T22679954A118577901.,BirdLife International,2017,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2017-3.RLTS.T22679954A118577901.en
+117,"Red-breasted Goose (Branta ruficollis), version 1.0. ","Carboneras, C., G. M. Kirwan, and C. J. Sharpe",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.rebgoo1.01
+118,Cacomantis merulinus. The IUCN Red List of Threatened Species 2016: e.T22683923A93007953.,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22683923A93007953.en. 
+119,"Plaintive Cuckoo (Cacomantis merulinus), version 1.0.","Payne, R. B. and G. M. Kirwan",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.placuc1.01
+120,Culicicapa ceylonensis. The IUCN Red List of Threatened Species 2016: e.T22709596A94215839.,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22709596A94215839.en
+121,"Gray-headed Canary-Flycatcher (Culicicapa ceylonensis), version 1.0.","Clement, P.",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.gyhcaf1.01
+122,Elanus caeruleus. The IUCN Red List of Threatened Species 2019: e.T22695028A152521997. ,BirdLife International,2017,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2019-3.RLTS.T22695028A152521997.en.
+123,"Black-winged Kite (Elanus caeruleus), version 1.0.","Kemp, A. C., G. M. Kirwan, J. S. Marks, A. Motis, and E. F. J. Garcia",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.bkskit1.01
+124,"Tibetan Lark (Melanocorypha maxima), version 1.0","Alström, P. ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.tiblar1.01
+125,Unravelling species co-occurrence in a steppe bird community of Inner Mongolia: Insights for the conservation of the endangered Jankowski’s Bunting. ,"Han, Z, Zhang, L, Jiang, Y, Wang, H, Jiguet, F. ",2020,Divers Distrib.,,,10.1111/ddi.13061
+126,Melanocorypha mongolica. The IUCN Red List of Threatened Species 2016: e.T22717295A94526964. ,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22717295A94526964.en. 
+127,"Brown-breasted Flycatcher (Muscicapa muttui), version 1.0.","Clement, P.",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.brbfly2.01
+128,Muscicapa muttui. The IUCN Red List of Threatened Species 2016: e.T22709220A94197748.,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22709220A94197748.en. 
+129,Myiomela leucura (amended version of 2016 assessment). The IUCN Red List of Threatened Species 2017: e.T103768823A111165982.,BirdLife International,2017,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2017-1.RLTS.T103768823A111165982.en. 
+130,"White-tailed Robin (Myiomela leucura), version 1.0. ","Collar, N., J. del Hoyo, D. A. Christie, and G. M. Kirwan ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.whtrob2.01
+131,Onychoprion aleuticus. The IUCN Red List of Threatened Species 2020: e.T22694716A178964431.,BirdLife International,2020,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2020-3.RLTS.T22694716A178964431.en. 
+132,"Aleutian Tern (Onychoprion aleuticus), version 1.0.","North, M. R. ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.aleter1.01
+133,Phoebastria immutabilis. The IUCN Red List of Threatened Species 2018: e.T22698365A132643073,BirdLife International,2018,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2018-2.RLTS.T22698365A132643073.en.
+134,"Laysan Albatross (Phoebastria immutabilis), version 1.0","Awkerman, J. A., D. J. Anderson, and G. C. Whittow ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.layalb.01
+135,Phoenicurus schisticeps. The IUCN Red List of Threatened Species 2016: e.T22710063A94232258.,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22710063A94232258.en
+136,"White-throated Redstart (Phoenicurus schisticeps), version 1.0","Collar, N.",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.whtred1.01
+137,Plegadis falcinellus (amended version of 2016 assessment). The IUCN Red List of Threatened Species 2019: e.T22697422A155528413.,BirdLife International,2019,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2019-3.RLTS.T22697422A155528413.en. 
+138,"Glossy Ibis (Plegadis falcinellus), version 1.0.","Davis Jr., W. E. and J. C. Kricher",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.gloibi.01
+139,Sylvia nisoria. The IUCN Red List of Threatened Species 2016: e.T22716937A87716403.,BirdLife International,2016,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22716937A87716403.en
+140,"Barred Warbler (Curruca nisoria), version 1.1.","Aymí, R., G. Gargallo, and E. de Juana",2021,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.barwar1.01.1
+141,Thalasseus bernsteini. The IUCN Red List of Threatened Species 2018: e.T22694585A131118818.,BirdLife International,2018,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2018-2.RLTS.T22694585A131118818.en. 
+142,"Chinese Crested Tern (Thalasseus bernsteini), version 1.0.","Gochfeld, M., J. Burger, E. de Juana, C. J. Sharpe, G. M. Kirwan, and E. F. J. Garcia ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.chcter2.01
+143,Turdus feae (amended version of 2016 assessment). The IUCN Red List of Threatened Species 2019: e.T22708790A155628935. ,BirdLife International,2019,International Union for Conservation of Nature,,,10.2305/IUCN.UK.2016-3.RLTS.T22708790A155628935.en. 
+144,"Gray-sided Thrush (Turdus feae), version 1.0.","Collar, N. ",2020,"Cornell Lab of Ornithology,","Ithaca, NY, USA",,10.2173/bow.gysthr1.01

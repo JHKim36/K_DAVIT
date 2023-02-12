@@ -1,0 +1,13 @@
+Package: DAVIT
+Type: Package
+Title: K_DAVIT (Database of Avian Functional Traits and Distribution in South Korea)
+Version: 0.1.0
+Author: Jae Hyun Kim; Shinyeong Park; Jeffery Hepinstall-Symerman; Dong Kun Lee
+Maintainer: Jae Hyun Kim <hyun.kim36@gmail.com>
+Description: The functional traits of 567 species recorded on the Korean Peninsula.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
