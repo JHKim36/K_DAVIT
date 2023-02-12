@@ -7,7 +7,7 @@
 \format{
 A data frame with 567 rows and 49 variables:
 \describe{
-  \item{oderName}{Order name of species}
+  \item{orderName}{Order name of species}
   \item{famliyName}{Family name of species}
   \item{IUCN SciName}{Scientic name using on IUCN}
   \item{NLSK SciName}{Scientic name using on National List of Species of Korea}
