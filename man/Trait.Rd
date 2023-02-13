@@ -5,7 +5,7 @@
 \alias{Trait}
 \title{Database of Avian Functional Traits and Distribution in South Korea}
 \format{
-A data frame with 567 rows and 49 variables:
+A data frame with 567 rows and 46 variables:
 \describe{
   \item{orderName}{Order name of species}
   \item{famliyName}{Family name of species}
