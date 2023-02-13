@@ -15,17 +15,17 @@ A data frame with 567 rows and 49 variables:
   \item{JAVIAN SciName}{Scientic name using on JAVIAN database}
   \item{English Common Name}{English Common Name}
   \item{Korean Common Name}{Korean Common Name}
-  \item{Diet-Inv}{Diet consists of Invertebrates-general, aquatic invertebrates, shrimp, krill, squid, crustacaeans, molluscs,
+  \item{Diet-Inv}{Diet consists of Invertebrates: general, aquatic invertebrates, shrimp, krill, squid, crustacaeans, molluscs,
   cephalapod, polychaetes, gastropods, orthoptera, terrestrial Invertebrates, ground insects, insect larvae, worms, orthopterans, flying insects (\%)}
-  \item{Diet-Vend}{Diet consists of Vertebrates-Mammals, Birds (\%)}
-  \item{Diet-Vect}{Diet consists of Herptile-Reptiles, snakes, amphibians, salamanders (\%)}
-  \item{Diet-Vfish}{Diet consists of Fish(\%)}
-  \item{Diet-Vunk}{Diet consists of Unknown-Vertebrates-general or unknown(\%)}
-  \item{Diet-Scav}{Diet consists of Scavenge-Scavenge, garbage, offal, carcasses, trawlers, carrrion(\%)}
+  \item{Diet-Vert}{Diet consists of Vertebrates-Mammals, Birds (\%)}
+  \item{Diet-Herptile}{Diet consists of Herptile: Reptiles, snakes, amphibians, salamanders (\%)}
+  \item{Diet-Fish}{Diet consists of Fish(\%)}
+  \item{Diet-GerUnk}{Diet consists of Vertebrates-general or unknown(\%)}
+  \item{Diet-Scav}{Diet consists of Scavenge: Scavenge, garbage, offal, carcasses, trawlers, carrrion(\%)}
   \item{Diet-Fruit}{Diet consists of Fruit(\%)}
-  \item{Diet-Nect}{Diet consists of Nectar-Nectar, pollen, plant exudates, gums(\%)}
-  \item{Diet-Seed}{Diet consists of Seed-Seed, maize, nuts, spores, wheat, grains(\%)}
-  \item{Diet-PlantO}{Diet consists of Plant-Other plant material, Grass, ground vegetation, seedlings,
+  \item{Diet-Nect}{Diet consists of Nectar: Nectar, pollen, plant exudates, gums(\%)}
+  \item{Diet-Seed}{Diet consists of Seed: Seed, maize, nuts, spores, wheat, grains(\%)}
+  \item{Diet-PlantO}{Diet consists of Plant: Other plant material, Grass, ground vegetation, seedlings,
   weeds, lichen, moss, small plants, reeds, cultivated crops, forbs, vegetables, fungi, roots, tubers,
   legumes, bulbs, leaves, above ground vegetation, twigs, bark, shrubs, herbs, shoots, aquatic vegetation, aquatic plants(\%)}
   \item{For-watbelowsurf}{Foraging location consists of below surface water(\%)}
